@@ -1,2 +1,4 @@
 A Test
 NewLine By User2
+
+Feature A Added by User 1
